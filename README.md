@@ -6,7 +6,7 @@
 
 - AtomOS 10 Ultimate Standard 002 - 22h2 <br>
 https://qiwi.gg/file/s45E2437-AtomOS1022h2Ultimate002 <br>
-https://gofile.io/d/jofm85 <>br
+https://gofile.io/d/jofm85 <br>
 
 ## Old ISOs:
 
