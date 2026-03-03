@@ -4,7 +4,7 @@
 
 ## Latest Releases - 29/Jan/2026
 
-- AtomOS11 Ultimate Lite 25h2 004 - 22h2 <br>
+- AtomOS11 Ultimate Lite 25h2 004 <br>
 https://gofile.io/d/hBXIrc <br>
 https://m1xdrop.net/f/z1zz9kx9igo8kjv <br>
 https://dailyuploads.net/rpsm7go7zdrw <br>
