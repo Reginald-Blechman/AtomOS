@@ -2,7 +2,10 @@
 
 - Shitty ISO made by a retard with shit ton of random tweaking regedit and batch files. <br>
 
-## Last Updated - 08/08/2026
+## Last Updated - 11/02/2026
+
+- AtomOS11_Standard_26H2_Ultimate <br>
+https://pub-9bfd8baebd2648a7918dc48ef27bafd0.r2.dev/AtomOS11_Standard_26H2_Ultimate.iso
 
 - AtomOS_11_Tiny_25H2_Ultimate.iso <br>
 https://miixdrop.com/f/gjo6xd8pt81mdp 
